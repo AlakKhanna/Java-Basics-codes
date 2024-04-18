@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04d68f89-82a4-4da7-836d-a03f2284a73b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java programs learnning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics02/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics02/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics02/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics02/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics02/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics02/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics02/Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics02/Lab011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics02/Lab014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics02/Lab015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics02/operators/AirthmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics02/operators/ModulasOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics02/operators/RelationalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics02/operators/UnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src_Basics01/LAB001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src_Basics01/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src_Basics01/Lab003.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="LabEx" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2fDzqlNYxptesBRmqdUWXNPRlBl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AirthmeticOperators.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Lab006.executor": "Run",
+    "Application.Lab007.executor": "Run",
+    "Application.Lab008.executor": "Run",
+    "Application.Lab010.executor": "Run",
+    "Application.Lab011.executor": "Run",
+    "Application.Lab015.executor": "Run",
+    "Application.ModulasOperator.executor": "Run",
+    "Application.RelationalOperator.executor": "Run",
+    "Application.UnaryOperator.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.RelationalOperator">
+    <configuration name="AirthmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics02.operators.AirthmeticOperators" />
+      <module name="Java programs learnning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Basics02.operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics02.Lab015" />
+      <module name="Java programs learnning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Basics02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModulasOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics02.operators.ModulasOperator" />
+      <module name="Java programs learnning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Basics02.operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelationalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics02.operators.RelationalOperator" />
+      <module name="Java programs learnning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Basics02.operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics02.operators.UnaryOperator" />
+      <module name="Java programs learnning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Basics02.operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RelationalOperator" />
+        <item itemvalue="Application.UnaryOperator" />
+        <item itemvalue="Application.Lab015" />
+        <item itemvalue="Application.ModulasOperator" />
+        <item itemvalue="Application.AirthmeticOperators" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04d68f89-82a4-4da7-836d-a03f2284a73b" name="Changes" comment="" />
+      <created>1713350633617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713350633617</updated>
+    </task>
+    <servers />
+  </component>
+</project>
