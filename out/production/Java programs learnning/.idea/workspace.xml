@@ -5,17 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04d68f89-82a4-4da7-836d-a03f2284a73b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java programs learnning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics02/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics02/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics02/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src_Basics01/LAB001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src_Basics01/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src_Basics01/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_02/Lab018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_02/operators/Compound_assignment_operator_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_02/operators/InstanceOfOperator_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_02/operators/LogicalOperators_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_02/operators/LogicalOperators_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_02/operators/NewOperators_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_02/operators/RelationalOperators_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_02/operators/TypeCastingOperator_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_03/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_03/LAb031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics_03/Lab032.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab006.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab007.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab009.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab010.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab011.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab014.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab015.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/operators/AirthmeticOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/operators/ModulasOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/operators/RelationalOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/operators/UnaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src_Basics01/LAB001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src_Basics01/Lab002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src_Basics01/Lab003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab010.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab014.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab015.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics02/operators/AirthmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/operators/AirthmeticOperators_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics02/operators/ModulasOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/operators/ModulasOperator_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics02/operators/RelationalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/operators/RelationalOperator_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics02/operators/UnaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/operators/UnaryOperator_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src_Basics01/LAB001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_01/LAB001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src_Basics01/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_01/Lab002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src_Basics01/Lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_01/Lab003.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +62,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="LabEx" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -33,21 +70,47 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2fDzqlNYxptesBRmqdUWXNPRlBl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AirthmeticOperators.executor": "Run",
+    "Application.Compound_assignment_operator_05.executor": "Run",
+    "Application.Functions.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.InstanceOfOperator_10.executor": "Run",
+    "Application.LAb031.executor": "Run",
+    "Application.LB030.executor": "Run",
     "Application.Lab006.executor": "Run",
+    "Application.Lab007.executor": "Run",
+    "Application.Lab008.executor": "Run",
+    "Application.Lab010.executor": "Run",
+    "Application.Lab011.executor": "Run",
+    "Application.Lab015.executor": "Run",
+    "Application.Lab018.executor": "Run",
+    "Application.Lab032.executor": "Run",
+    "Application.LogicalOperators_02.executor": "Run",
+    "Application.LogicalOperators_07.executor": "Run",
+    "Application.ModulasOperator.executor": "Run",
+    "Application.RelationalOperator.executor": "Run",
+    "Application.RelationalOperators_06.executor": "Run",
+    "Application.TypeCastingOperator_08.executor": "Run",
+    "Application.UnaryOperator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "SDKs",
@@ -56,20 +119,65 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab006">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.HelloWorld" />
+  <component name="RunManager" selected="Application.InstanceOfOperator_10">
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_03.Functions" />
       <module name="Java programs learnning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Basics_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics02.Lab006" />
+    <configuration name="InstanceOfOperator_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_02.operators.InstanceOfOperator_10" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Basics02.*" />
+          <option name="PATTERN" value="src.Basics_02.operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LAb031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_03.LAb031" />
+      <module name="Java programs learnning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Basics_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_03.Lab032" />
+      <module name="Java programs learnning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Basics_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeCastingOperator_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Basics_02.operators.TypeCastingOperator_08" />
+      <module name="Java programs learnning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Basics_02.operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,8 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab006" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.InstanceOfOperator_10" />
+        <item itemvalue="Application.Lab032" />
+        <item itemvalue="Application.LAb031" />
+        <item itemvalue="Application.Functions" />
+        <item itemvalue="Application.TypeCastingOperator_08" />
       </list>
     </recent_temporary>
   </component>
