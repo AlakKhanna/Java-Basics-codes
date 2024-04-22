@@ -5,53 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04d68f89-82a4-4da7-836d-a03f2284a73b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/Lab018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/operators/Compound_assignment_operator_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/operators/InstanceOfOperator_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/operators/LogicalOperators_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/operators/LogicalOperators_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/operators/NewOperators_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/operators/RelationalOperators_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_02/operators/TypeCastingOperator_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_03/Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_03/LAb031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics_03/Lab032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/CapitalFirstcharcater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/CorrectPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/DuplicateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/OnePrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/Primenumberbetween1to100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/ReverseString_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/Reversenumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/leftPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/reverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/rightPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab0112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab0113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab0115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab098.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab099.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab106_Diaganal2DArrayPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Prime_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/TakeInputAsArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/reverse_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_07/reversestring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_08/Lab116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_08/Lab117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_08/Lab118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_08/Lab119.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab005.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab006.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab007.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab008.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab009.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab010.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab011.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab014.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/Lab015.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/operators/AirthmeticOperators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/operators/ModulasOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/operators/RelationalOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Basics02/operators/UnaryOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src_Basics01/LAB001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src_Basics01/Lab002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src_Basics01/Lab003.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics02/Lab015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/Lab015.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics02/operators/AirthmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/operators/AirthmeticOperators_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics02/operators/ModulasOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/operators/ModulasOperator_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics02/operators/RelationalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/operators/RelationalOperator_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics02/operators/UnaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_02/operators/UnaryOperator_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_Basics01/LAB001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_01/LAB001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_Basics01/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_01/Lab002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_Basics01/Lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics_01/Lab003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/OOPS_07/Lab097.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/src/OOPS_07/Lab097.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS_07/Lab097.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS_07/Lab097.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,9 +64,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2fDzqlNYxptesBRmqdUWXNPRlBl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -88,26 +79,124 @@
   "keyToString": {
     "Application.AirthmeticOperators.executor": "Run",
     "Application.Compound_assignment_operator_05.executor": "Run",
+    "Application.ConditionalTurnaryOperator_11.executor": "Run",
+    "Application.CorrectPyramid.executor": "Run",
+    "Application.DuplicateArray.executor": "Run",
     "Application.Functions.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.IncreamentOperator_12.executor": "Run",
     "Application.InstanceOfOperator_10.executor": "Run",
     "Application.LAb031.executor": "Run",
+    "Application.LAb033.executor": "Run",
     "Application.LB030.executor": "Run",
     "Application.Lab006.executor": "Run",
     "Application.Lab007.executor": "Run",
     "Application.Lab008.executor": "Run",
     "Application.Lab010.executor": "Run",
     "Application.Lab011.executor": "Run",
+    "Application.Lab0112.executor": "Debug",
+    "Application.Lab0113.executor": "Run",
+    "Application.Lab0115.executor": "Run",
     "Application.Lab015.executor": "Run",
     "Application.Lab018.executor": "Run",
     "Application.Lab032.executor": "Run",
+    "Application.Lab034.executor": "Run",
+    "Application.Lab035.executor": "Run",
+    "Application.Lab036.executor": "Run",
+    "Application.Lab037.executor": "Run",
+    "Application.Lab038.executor": "Run",
+    "Application.Lab039.executor": "Run",
+    "Application.Lab040.executor": "Run",
+    "Application.Lab041.executor": "Run",
+    "Application.Lab042.executor": "Run",
+    "Application.Lab043.executor": "Run",
+    "Application.Lab044.executor": "Run",
+    "Application.Lab045.executor": "Run",
+    "Application.Lab046.executor": "Run",
+    "Application.Lab050.executor": "Run",
+    "Application.Lab051.executor": "Run",
+    "Application.Lab052.executor": "Run",
+    "Application.Lab053.executor": "Run",
+    "Application.Lab054.executor": "Run",
+    "Application.Lab055.executor": "Run",
+    "Application.Lab056.executor": "Run",
+    "Application.Lab057.executor": "Run",
+    "Application.Lab058.executor": "Run",
+    "Application.Lab059.executor": "Run",
+    "Application.Lab060.executor": "Run",
+    "Application.Lab061.executor": "Run",
+    "Application.Lab062.executor": "Run",
+    "Application.Lab063.executor": "Run",
+    "Application.Lab064.executor": "Run",
+    "Application.Lab065.executor": "Run",
+    "Application.Lab066.executor": "Run",
+    "Application.Lab067.executor": "Run",
+    "Application.Lab068.executor": "Run",
+    "Application.Lab069.executor": "Run",
+    "Application.Lab070.executor": "Run",
+    "Application.Lab071.executor": "Run",
+    "Application.Lab072.executor": "Run",
+    "Application.Lab073.executor": "Run",
+    "Application.Lab074.executor": "Run",
+    "Application.Lab075.executor": "Run",
+    "Application.Lab076.executor": "Run",
+    "Application.Lab077.executor": "Run",
+    "Application.Lab078.executor": "Run",
+    "Application.Lab079.executor": "Debug",
+    "Application.Lab080.executor": "Run",
+    "Application.Lab081.executor": "Run",
+    "Application.Lab082.executor": "Run",
+    "Application.Lab083.executor": "Run",
+    "Application.Lab084.executor": "Run",
+    "Application.Lab085.executor": "Run",
+    "Application.Lab086.executor": "Run",
+    "Application.Lab087.executor": "Debug",
+    "Application.Lab088.executor": "Run",
+    "Application.Lab089.executor": "Run",
+    "Application.Lab090.executor": "Run",
+    "Application.Lab091.executor": "Run",
+    "Application.Lab092.executor": "Run",
+    "Application.Lab093.executor": "Run",
+    "Application.Lab094.executor": "Run",
+    "Application.Lab095.executor": "Run",
+    "Application.Lab096.executor": "Run",
+    "Application.Lab097.executor": "Run",
+    "Application.Lab098.executor": "Run",
+    "Application.Lab099.executor": "Run",
+    "Application.Lab101.executor": "Run",
+    "Application.Lab102.executor": "Run",
+    "Application.Lab103.executor": "Run",
+    "Application.Lab104.executor": "Run",
+    "Application.Lab105.executor": "Run",
+    "Application.Lab106.executor": "Run",
+    "Application.Lab107.executor": "Run",
+    "Application.Lab108.executor": "Run",
+    "Application.Lab110.executor": "Run",
+    "Application.Lab111.executor": "Run",
+    "Application.Lab114.executor": "Run",
+    "Application.Lab116.executor": "Run",
+    "Application.Lab117.executor": "Run",
+    "Application.Lab118.executor": "Run",
+    "Application.Lab119.executor": "Run",
     "Application.LogicalOperators_02.executor": "Run",
     "Application.LogicalOperators_07.executor": "Run",
     "Application.ModulasOperator.executor": "Run",
+    "Application.OnePrimeNumber.executor": "Run",
+    "Application.Primenumberbetween1to100.executor": "Run",
     "Application.RelationalOperator.executor": "Run",
     "Application.RelationalOperators_06.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.ReverseString_2.executor": "Run",
+    "Application.Reversenumber.executor": "Run",
     "Application.TypeCastingOperator_08.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.leftPyramid.executor": "Run",
+    "Application.reverseArray.executor": "Run",
+    "Application.reverse_string.executor": "Run",
+    "Application.reversestring.executor": "Debug",
+    "Application.rightPyramid.executor": "Run",
+    "Application.src.OOPS_07.Lab093.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -119,13 +208,13 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.InstanceOfOperator_10">
-    <configuration name="Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_03.Functions" />
+  <component name="RunManager" selected="Application.Lab119">
+    <configuration name="Lab116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.OOPS_08.Lab116" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Basics_03.*" />
+          <option name="PATTERN" value="src.OOPS_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceOfOperator_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_02.operators.InstanceOfOperator_10" />
+    <configuration name="Lab117" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.OOPS_08.Lab117" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Basics_02.operators.*" />
+          <option name="PATTERN" value="src.OOPS_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LAb031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_03.LAb031" />
+    <configuration name="Lab118" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.OOPS_08.Lab118" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Basics_03.*" />
+          <option name="PATTERN" value="src.OOPS_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +248,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_03.Lab032" />
+    <configuration name="Lab119" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.OOPS_08.Lab119" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Basics_03.*" />
+          <option name="PATTERN" value="src.OOPS_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +261,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCastingOperator_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Basics_02.operators.TypeCastingOperator_08" />
+    <configuration name="reverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.InterviewQuestions.reverseArray" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Basics_02.operators.*" />
+          <option name="PATTERN" value="src.InterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InstanceOfOperator_10" />
-        <item itemvalue="Application.Lab032" />
-        <item itemvalue="Application.LAb031" />
-        <item itemvalue="Application.Functions" />
-        <item itemvalue="Application.TypeCastingOperator_08" />
+        <item itemvalue="Application.Lab119" />
+        <item itemvalue="Application.Lab118" />
+        <item itemvalue="Application.Lab117" />
+        <item itemvalue="Application.Lab116" />
+        <item itemvalue="Application.reverseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -212,5 +301,92 @@
       <updated>1713350633617</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Basics_05/Lab079.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Basics_05/Lab079.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Basics_05/Lab079.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Basics_05/Lab079.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Basics_05/Lab079.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOPS_07/reversestring.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOPS_07/reversestring.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOPS_07/reversestring.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOPS_07/reversestring.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOPS_07/reversestring.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOPS_07/reversestring.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOPS_07/Lab111.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOPS_07/Lab111.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOPS_07/Lab111.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

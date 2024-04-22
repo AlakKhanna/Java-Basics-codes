@@ -6,6 +6,8 @@ public class Lab097 {
     public static void main(String[] args) {
         print("hello");
         print(1);
+        print("hello", 1);
+
     }
     static void print (String s)
     {
@@ -15,5 +17,11 @@ public class Lab097 {
     static void print (int i)
     {
         System.out.println(i);
+    }
+
+    static void print (String s, int i)
+    {
+        System.out.println(s + " " + i);
+
     }
 }
