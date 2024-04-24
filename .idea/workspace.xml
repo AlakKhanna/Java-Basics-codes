@@ -5,73 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04d68f89-82a4-4da7-836d-a03f2284a73b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/CapitalFirstcharcater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/CorrectPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/DuplicateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/OnePrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/Primenumberbetween1to100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/ReverseString_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/Reversenumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/leftPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/reverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/rightPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab0112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab0113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab0115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab098.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab099.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab106_Diaganal2DArrayPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Lab114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/Prime_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/TakeInputAsArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/reverse_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_07/reversestring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_08/Lab116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_08/Lab117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_08/Lab118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_08/Lab119.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_08/Lab120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_08/Lab121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_08/Lab122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_08/OOPS/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_08/OOPS/Lab124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_08/OOPS/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_08/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_08/Plaindrome_withoutreverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/ATBPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Bank_Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/DOG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Inheritance/Hierarchical/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Inheritance/Hierarchical/Lab145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Inheritance/Hierarchical/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Inheritance/Hierarchical/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Inheritance/MultiLevel/Daughter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Inheritance/MultiLevel/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Inheritance/MultiLevel/GrandFather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Inheritance/MultiLevel/Lab141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Inheritance/SingleLevel/Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Inheritance/SingleLevel/Lab133.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Inheritance/SingleLevel/Lab136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Inheritance/SingleLevel/Programming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Inheritance/SingleLevel/Python.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Lab126.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Lab128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Lab130.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Lab132.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_09/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/ATBClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Example2/Alak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Example2/AlakBrother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Example2/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Interfaces/AlakClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Interfaces/AskInterviewQuestions/II1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Interfaces/AskInterviewQuestions/Lab149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Interfaces/I1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Interfaces/RealTimeExample/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Interfaces/RealTimeExample/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Interfaces/RealTimeExample/CarRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Interfaces/RealTimeExample/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Interfaces/RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/Interfaces/father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/ReadMe.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/RealTimeEample/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/RealTimeEample/TC1_Chrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Abstraction/RealTimeEample/TC2_FireeFox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/BlockClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/IV04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/IV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/IV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/IV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/LAB146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Poly/MethodOverLoading/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Poly/MethodOverLoading/Runnerclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Poly/MethodOverRiding/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Poly/MethodOverRiding/Hound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/Poly/MethodOverRiding/RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/accessModifier/criminal/Theif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/accessModifier/police/JrCop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/accessModifier/police/cop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/encapsulation/BadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/encapsulation/Lab147.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/encapsulation/Lab148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/encapsulation/PersonS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_10/encapsulation/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/OOPS_07/Lab097.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/src/OOPS_07/Lab097.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS_07/Lab097.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS_07/Lab097.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/OOPS_09/Inheritance/Hierarchical/Lab145.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/src/OOPS_09/Inheritance/Hierarchical/Lab145.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +57,7 @@
       <list>
         <option value="LabEx" />
         <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -107,14 +82,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AirthmeticOperators.executor": "Run",
+    "Application.BadExample.executor": "Run",
+    "Application.CarRun.executor": "Run",
     "Application.Compound_assignment_operator_05.executor": "Run",
     "Application.ConditionalTurnaryOperator_11.executor": "Run",
     "Application.CorrectPyramid.executor": "Run",
     "Application.DuplicateArray.executor": "Run",
     "Application.Functions.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.I1.executor": "Run",
+    "Application.II1 (1).executor": "Run",
+    "Application.II1.executor": "Run",
+    "Application.IV1.executor": "Run",
+    "Application.IV2.executor": "Run",
+    "Application.IV3.executor": "Run",
     "Application.IncreamentOperator_12.executor": "Run",
     "Application.InstanceOfOperator_10.executor": "Run",
+    "Application.LAB146.executor": "Run",
     "Application.LAb031.executor": "Run",
     "Application.LAb033.executor": "Run",
     "Application.LB030.executor": "Run",
@@ -217,6 +201,9 @@
     "Application.Lab133.executor": "Run",
     "Application.Lab136.executor": "Run",
     "Application.Lab141.executor": "Run",
+    "Application.Lab145.executor": "Run",
+    "Application.Lab148 (1).executor": "Run",
+    "Application.Lab148.executor": "Run",
     "Application.LogicalOperators_02.executor": "Run",
     "Application.LogicalOperators_07.executor": "Run",
     "Application.ModulasOperator.executor": "Run",
@@ -228,6 +215,8 @@
     "Application.ReverseString.executor": "Run",
     "Application.ReverseString_2.executor": "Run",
     "Application.Reversenumber.executor": "Run",
+    "Application.RunnerClass.executor": "Run",
+    "Application.Theif.executor": "Run",
     "Application.TypeCastingOperator_08.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
     "Application.factorial.executor": "Run",
@@ -248,13 +237,13 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab145">
-    <configuration name="Lab132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOPS_09.Lab132" />
+  <component name="RunManager" selected="Application.II1 (1)">
+    <configuration name="CarRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.OOPS_10.Abstraction.Interfaces.RealTimeExample.CarRun" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.OOPS_09.*" />
+          <option name="PATTERN" value="src.OOPS_10.Abstraction.Interfaces.RealTimeExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab133" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOPS_09.Inheritance.SingleLevel.Lab133" />
+    <configuration name="I1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.OOPS_10.Abstraction.Interfaces.I1" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.OOPS_09.Inheritance.SingleLevel.*" />
+          <option name="PATTERN" value="src.OOPS_10.Abstraction.Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOPS_09.Inheritance.SingleLevel.Lab136" />
+    <configuration name="II1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.OOPS_10.Abstraction.Interfaces.AskInterviewQuestions.II1" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.OOPS_09.Inheritance.SingleLevel.*" />
+          <option name="PATTERN" value="src.OOPS_10.Abstraction.Interfaces.AskInterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab141" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOPS_09.Inheritance.MultiLevel.Lab141" />
+    <configuration name="II1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.OOPS_10.Abstraction.Interfaces.AskInterviewQuestions.II1" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.OOPS_09.Inheritance.MultiLevel.*" />
+          <option name="PATTERN" value="src.OOPS_10.Abstraction.Interfaces.AskInterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab145" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOPS_09.Inheritance.Hierarchical.Lab145" />
+    <configuration name="IV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.OOPS_10.IV3" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.OOPS_09.Inheritance.Hierarchical.*" />
+          <option name="PATTERN" value="src.OOPS_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,11 +305,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab145" />
-        <item itemvalue="Application.Lab141" />
-        <item itemvalue="Application.Lab136" />
-        <item itemvalue="Application.Lab133" />
-        <item itemvalue="Application.Lab132" />
+        <item itemvalue="Application.II1 (1)" />
+        <item itemvalue="Application.II1" />
+        <item itemvalue="Application.CarRun" />
+        <item itemvalue="Application.I1" />
+        <item itemvalue="Application.IV3" />
       </list>
     </recent_temporary>
   </component>
