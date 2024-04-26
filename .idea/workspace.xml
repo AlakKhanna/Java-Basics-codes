@@ -5,26 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04d68f89-82a4-4da7-836d-a03f2284a73b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOps_14/Lab189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOps_14/Lab191.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOps_14/Lab192.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOps_14/Lab193.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOps_14/Lab194.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOps_14/Lab195.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOps_14/Lab196.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOps_14/Lab197.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOps_14/Lab198.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOps_14/Lab199.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOps_14/Lab200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOps_14/Lab201.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOps_14/lab190.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/Left_traingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/Opposite_traingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/Pattern_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/Right_traingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/opposite_pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/pattern_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/pattern_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/patternshape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/patternsquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/trainglwith2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/xpattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/OOPS_13/Lab188.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/src/OOPS_13/Lab188.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/OOPS_13/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/src/OOPS_13/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS_13/Lab188.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS_13/Lab188.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS_13/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS_13/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,10 +215,13 @@
     "Application.Lab198.executor": "Run",
     "Application.Lab199.executor": "Run",
     "Application.Lab201.executor": "Run",
+    "Application.Left_traingle.executor": "Run",
     "Application.LogicalOperators_02.executor": "Run",
     "Application.LogicalOperators_07.executor": "Run",
     "Application.ModulasOperator.executor": "Run",
     "Application.OnePrimeNumber.executor": "Run",
+    "Application.Opposite_traingle.executor": "Run",
+    "Application.Pattern_2.executor": "Run",
     "Application.Plaindrome_withoutreverse.executor": "Run",
     "Application.Primenumberbetween1to100.executor": "Run",
     "Application.RelationalOperator.executor": "Run",
@@ -231,6 +229,7 @@
     "Application.ReverseString.executor": "Run",
     "Application.ReverseString_2.executor": "Run",
     "Application.Reversenumber.executor": "Run",
+    "Application.Right_traingle.executor": "Run",
     "Application.RunnerClass.executor": "Run",
     "Application.Theif.executor": "Run",
     "Application.TypeCastingOperator_08.executor": "Run",
@@ -238,11 +237,19 @@
     "Application.factorial.executor": "Run",
     "Application.lab190.executor": "Run",
     "Application.leftPyramid.executor": "Run",
+    "Application.opposite_pyramid.executor": "Run",
+    "Application.pattern_1.executor": "Run",
+    "Application.pattern_3.executor": "Run",
+    "Application.patternshape.executor": "Run",
+    "Application.patternsquare.executor": "Run",
+    "Application.pyramid.executor": "Debug",
     "Application.reverseArray.executor": "Run",
     "Application.reverse_string.executor": "Run",
     "Application.reversestring.executor": "Debug",
     "Application.rightPyramid.executor": "Run",
     "Application.src.OOPS_07.Lab093.executor": "Run",
+    "Application.trainglwith2.executor": "Run",
+    "Application.xpattern.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -254,13 +261,13 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab201">
-    <configuration name="Lab195" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOps_14.Lab195" />
+  <component name="RunManager" selected="Application.patternsquare">
+    <configuration name="Pattern_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.Pattern_2" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.OOps_14.*" />
+          <option name="PATTERN" value="src.interview.patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab197" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOps_14.Lab197" />
+    <configuration name="pattern_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.pattern_1" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.OOps_14.*" />
+          <option name="PATTERN" value="src.interview.patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,12 +288,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab198" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOps_14.Lab198" />
+    <configuration name="pattern_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.pattern_3" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.OOps_14.*" />
+          <option name="PATTERN" value="src.interview.patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,12 +301,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab199" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOps_14.Lab199" />
+    <configuration name="patternsquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.patternsquare" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.OOps_14.*" />
+          <option name="PATTERN" value="src.interview.patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,12 +314,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab201" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOps_14.Lab201" />
+    <configuration name="xpattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.xpattern" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.OOps_14.*" />
+          <option name="PATTERN" value="src.interview.patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,19 +328,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab195" />
-      <item itemvalue="Application.Lab197" />
-      <item itemvalue="Application.Lab198" />
-      <item itemvalue="Application.Lab199" />
-      <item itemvalue="Application.Lab201" />
+      <item itemvalue="Application.Pattern_2" />
+      <item itemvalue="Application.pattern_1" />
+      <item itemvalue="Application.pattern_3" />
+      <item itemvalue="Application.patternsquare" />
+      <item itemvalue="Application.xpattern" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab201" />
-        <item itemvalue="Application.Lab199" />
-        <item itemvalue="Application.Lab198" />
-        <item itemvalue="Application.Lab197" />
-        <item itemvalue="Application.Lab195" />
+        <item itemvalue="Application.patternsquare" />
+        <item itemvalue="Application.xpattern" />
+        <item itemvalue="Application.pattern_3" />
+        <item itemvalue="Application.Pattern_2" />
+        <item itemvalue="Application.pattern_1" />
       </list>
     </recent_temporary>
   </component>
@@ -438,6 +445,31 @@
           <url>file://$PROJECT_DIR$/src/OOPS_07/Lab111.java</url>
           <line>31</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/patterns/pyramid.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/patterns/pyramid.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/patterns/pyramid.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/patterns/pyramid.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/patterns/pyramid.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
