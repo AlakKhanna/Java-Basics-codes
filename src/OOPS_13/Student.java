@@ -21,7 +21,25 @@ class DSC implements Comparator<Student>
     }
 }
 
+class  sortByName implements Comparator<Student>
+{
+
+    @Override
+    public int compare(Student o1, Student o2) {
+        return o1.getName().compareTo(o2.getName());
+    }
+}
+
 public class Student implements Comparable<Student>{
+
+    Integer id;
+    String name;
+
+    public Student( Integer id, String name)
+    {
+        this.id=id;
+        this.name= name;
+    }
 
     public Integer getId() {
         return id;
@@ -47,14 +65,6 @@ public class Student implements Comparable<Student>{
         this.name = name;
     }
 
-    Integer id;
-    String name;
-
-    public Student( Integer id, String name)
-    {
-        this.id=id;
-        this.name= name;
-    }
 
     @Override
     public int compareTo(@NotNull Student s2) {

@@ -19,7 +19,8 @@ public class Lab188 {
         student.add(s3);
 
 
-        Collections.sort(student);
+        //Collections.sort(student);
+        Collections.sort(student, new sortByName());
         System.out.println(student);
         Iterator iterator = student.iterator();
         while (iterator.hasNext())
