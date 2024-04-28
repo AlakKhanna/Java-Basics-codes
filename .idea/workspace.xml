@@ -5,21 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04d68f89-82a4-4da7-836d-a03f2284a73b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/Left_traingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/Opposite_traingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/Pattern_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/Right_traingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/opposite_pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/pattern_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/pattern_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/patternshape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/patternsquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/trainglwith2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/xpattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/AnticlockSpiralPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/ClockwiseSpiralPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/Spiralpattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/numberPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/numberPattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/numberPattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/numberPattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/patterns/pyramid2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/interview/patterns/patternsquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/src/interview/patterns/patternsquare.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +52,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AirthmeticOperators.executor": "Run",
+    "Application.AnticlockSpiralPattern.executor": "Run",
     "Application.BadExample.executor": "Run",
     "Application.CarRun.executor": "Run",
+    "Application.ClockwiseSpiralPattern.executor": "Run",
     "Application.Compound_assignment_operator_05.executor": "Run",
     "Application.ConditionalTurnaryOperator_11.executor": "Run",
     "Application.CorrectPyramid.executor": "Run",
@@ -231,18 +229,26 @@
     "Application.Reversenumber.executor": "Run",
     "Application.Right_traingle.executor": "Run",
     "Application.RunnerClass.executor": "Run",
+    "Application.SpiralPattern_2.executor": "Run",
+    "Application.Spiralpattern.executor": "Run",
     "Application.Theif.executor": "Run",
     "Application.TypeCastingOperator_08.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
     "Application.factorial.executor": "Run",
     "Application.lab190.executor": "Run",
     "Application.leftPyramid.executor": "Run",
+    "Application.numberPattern.executor": "Run",
+    "Application.numberPattern2.executor": "Run",
+    "Application.numberPattern3.executor": "Run",
+    "Application.numberPattern4.executor": "Run",
     "Application.opposite_pyramid.executor": "Run",
+    "Application.pattern.executor": "Run",
     "Application.pattern_1.executor": "Run",
     "Application.pattern_3.executor": "Run",
     "Application.patternshape.executor": "Run",
     "Application.patternsquare.executor": "Run",
     "Application.pyramid.executor": "Debug",
+    "Application.pyramid2.executor": "Run",
     "Application.reverseArray.executor": "Run",
     "Application.reverse_string.executor": "Run",
     "Application.reversestring.executor": "Debug",
@@ -261,9 +267,9 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.patternsquare">
-    <configuration name="Pattern_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.Pattern_2" />
+  <component name="RunManager" selected="Application.Spiralpattern">
+    <configuration name="AnticlockSpiralPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.AnticlockSpiralPattern" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
@@ -275,8 +281,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.pattern_1" />
+    <configuration name="ClockwiseSpiralPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.ClockwiseSpiralPattern" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
@@ -288,8 +294,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.pattern_3" />
+    <configuration name="Spiralpattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.Spiralpattern" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
@@ -301,8 +307,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="patternsquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.patternsquare" />
+    <configuration name="numberPattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.numberPattern3" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
@@ -314,8 +320,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xpattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.xpattern" />
+    <configuration name="numberPattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.numberPattern4" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
@@ -328,19 +334,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Pattern_2" />
-      <item itemvalue="Application.pattern_1" />
-      <item itemvalue="Application.pattern_3" />
-      <item itemvalue="Application.patternsquare" />
-      <item itemvalue="Application.xpattern" />
+      <item itemvalue="Application.AnticlockSpiralPattern" />
+      <item itemvalue="Application.ClockwiseSpiralPattern" />
+      <item itemvalue="Application.Spiralpattern" />
+      <item itemvalue="Application.numberPattern3" />
+      <item itemvalue="Application.numberPattern4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.patternsquare" />
-        <item itemvalue="Application.xpattern" />
-        <item itemvalue="Application.pattern_3" />
-        <item itemvalue="Application.Pattern_2" />
-        <item itemvalue="Application.pattern_1" />
+        <item itemvalue="Application.Spiralpattern" />
+        <item itemvalue="Application.ClockwiseSpiralPattern" />
+        <item itemvalue="Application.AnticlockSpiralPattern" />
+        <item itemvalue="Application.numberPattern4" />
+        <item itemvalue="Application.numberPattern3" />
       </list>
     </recent_temporary>
   </component>
@@ -470,6 +476,11 @@
           <url>file://$PROJECT_DIR$/src/interview/patterns/pyramid.java</url>
           <line>16</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/patterns/ClockwiseSpiralPattern.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
