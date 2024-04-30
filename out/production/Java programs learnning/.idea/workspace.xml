@@ -5,20 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04d68f89-82a4-4da7-836d-a03f2284a73b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/Left_traingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/Opposite_traingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/Pattern_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/Right_traingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/opposite_pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/pattern_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/pattern_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/patternshape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/patternsquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/trainglwith2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/patterns/xpattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Questions_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Question_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Question_16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +54,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AirthmeticOperators.executor": "Run",
+    "Application.AnticlockSpiralPattern.executor": "Run",
     "Application.BadExample.executor": "Run",
+    "Application.BankDemo.executor": "Run",
     "Application.CarRun.executor": "Run",
+    "Application.ClockwiseSpiralPattern.executor": "Run",
     "Application.Compound_assignment_operator_05.executor": "Run",
     "Application.ConditionalTurnaryOperator_11.executor": "Run",
     "Application.CorrectPyramid.executor": "Run",
@@ -157,6 +159,7 @@
     "Application.Lab104.executor": "Run",
     "Application.Lab105.executor": "Run",
     "Application.Lab106.executor": "Run",
+    "Application.Lab106_Diaganal2DArrayPrint.executor": "Run",
     "Application.Lab107.executor": "Run",
     "Application.Lab108.executor": "Run",
     "Application.Lab110.executor": "Run",
@@ -218,11 +221,29 @@
     "Application.LogicalOperators_02.executor": "Run",
     "Application.LogicalOperators_07.executor": "Run",
     "Application.ModulasOperator.executor": "Run",
-    "Application.OnePrimeNumber.executor": "Run",
+    "Application.OnePrimeNumber.executor": "Debug",
     "Application.Opposite_traingle.executor": "Run",
     "Application.Pattern_2.executor": "Run",
     "Application.Plaindrome_withoutreverse.executor": "Run",
     "Application.Primenumberbetween1to100.executor": "Run",
+    "Application.Question_1.executor": "Run",
+    "Application.Question_10.executor": "Run",
+    "Application.Question_11.executor": "Run",
+    "Application.Question_12.executor": "Run",
+    "Application.Question_13.executor": "Run",
+    "Application.Question_14.executor": "Run",
+    "Application.Question_15.executor": "Run",
+    "Application.Question_16.executor": "Run",
+    "Application.Question_2.executor": "Run",
+    "Application.Question_3.executor": "Run",
+    "Application.Question_5.executor": "Run",
+    "Application.Question_6.executor": "Run",
+    "Application.Question_7.executor": "Run",
+    "Application.Question_8.executor": "Run",
+    "Application.Question_9.executor": "Run",
+    "Application.Questions_2.executor": "Run",
+    "Application.Questions_4.executor": "Run",
+    "Application.Questions_8.executor": "Run",
     "Application.RelationalOperator.executor": "Run",
     "Application.RelationalOperators_06.executor": "Run",
     "Application.ReverseString.executor": "Run",
@@ -230,18 +251,34 @@
     "Application.Reversenumber.executor": "Run",
     "Application.Right_traingle.executor": "Run",
     "Application.RunnerClass.executor": "Run",
+    "Application.SpiralPattern_2.executor": "Run",
+    "Application.Spiralpattern.executor": "Run",
+    "Application.TH01.executor": "Run",
+    "Application.TH02.executor": "Run",
+    "Application.Th03 (1).executor": "Run",
+    "Application.Th03.executor": "Run",
     "Application.Theif.executor": "Run",
     "Application.TypeCastingOperator_08.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
+    "Application.case1 (1).executor": "Run",
+    "Application.case1.executor": "Run",
     "Application.factorial.executor": "Run",
+    "Application.genericClass.executor": "Run",
+    "Application.genericMethod.executor": "Run",
     "Application.lab190.executor": "Run",
     "Application.leftPyramid.executor": "Run",
+    "Application.numberPattern.executor": "Run",
+    "Application.numberPattern2.executor": "Run",
+    "Application.numberPattern3.executor": "Run",
+    "Application.numberPattern4.executor": "Run",
     "Application.opposite_pyramid.executor": "Run",
+    "Application.pattern.executor": "Run",
     "Application.pattern_1.executor": "Run",
     "Application.pattern_3.executor": "Run",
     "Application.patternshape.executor": "Run",
     "Application.patternsquare.executor": "Run",
     "Application.pyramid.executor": "Debug",
+    "Application.pyramid2.executor": "Run",
     "Application.reverseArray.executor": "Run",
     "Application.reverse_string.executor": "Run",
     "Application.reversestring.executor": "Debug",
@@ -260,13 +297,13 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.xpattern">
-    <configuration name="Pattern_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.Pattern_2" />
+  <component name="RunManager" selected="Application.Question_16">
+    <configuration name="Question_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.Array.Question_10" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.interview.patterns.*" />
+          <option name="PATTERN" value="src.Questions.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.pattern_1" />
+    <configuration name="Question_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.Question_15" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.interview.patterns.*" />
+          <option name="PATTERN" value="src.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,12 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.pattern_3" />
+    <configuration name="Question_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.Question_16" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.interview.patterns.*" />
+          <option name="PATTERN" value="src.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,12 +337,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="patternsquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.patternsquare" />
+    <configuration name="Question_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.Array.Question_9" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.interview.patterns.*" />
+          <option name="PATTERN" value="src.Questions.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xpattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview.patterns.xpattern" />
+    <configuration name="Questions_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.Array.Questions_8" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.interview.patterns.*" />
+          <option name="PATTERN" value="src.Questions.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,19 +364,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Pattern_2" />
-      <item itemvalue="Application.pattern_1" />
-      <item itemvalue="Application.pattern_3" />
-      <item itemvalue="Application.patternsquare" />
-      <item itemvalue="Application.xpattern" />
+      <item itemvalue="Application.Question_10" />
+      <item itemvalue="Application.Question_15" />
+      <item itemvalue="Application.Question_16" />
+      <item itemvalue="Application.Question_9" />
+      <item itemvalue="Application.Questions_8" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.xpattern" />
-        <item itemvalue="Application.pattern_3" />
-        <item itemvalue="Application.Pattern_2" />
-        <item itemvalue="Application.pattern_1" />
-        <item itemvalue="Application.patternsquare" />
+        <item itemvalue="Application.Question_16" />
+        <item itemvalue="Application.Question_15" />
+        <item itemvalue="Application.Question_10" />
+        <item itemvalue="Application.Question_9" />
+        <item itemvalue="Application.Questions_8" />
       </list>
     </recent_temporary>
   </component>
@@ -401,36 +438,6 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/OOPS_07/reversestring.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/OOPS_07/reversestring.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/OOPS_07/reversestring.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/OOPS_07/reversestring.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/OOPS_07/reversestring.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/OOPS_07/reversestring.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/OOPS_07/Lab111.java</url>
           <line>27</line>
           <option name="timeStamp" value="29" />
@@ -469,6 +476,26 @@
           <url>file://$PROJECT_DIR$/src/interview/patterns/pyramid.java</url>
           <line>16</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/patterns/ClockwiseSpiralPattern.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewQuestions/OnePrimeNumber.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewQuestions/OnePrimeNumber.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewQuestions/OnePrimeNumber.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04d68f89-82a4-4da7-836d-a03f2284a73b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Generic/genericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic/genericMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Question_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Synchroniztion/BankDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Synchroniztion/case1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/TH01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/TH02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/TH04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/Th03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Questions_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Question_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Question_16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/Question_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions/Question_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,6 +234,9 @@
     "Application.Question_12.executor": "Run",
     "Application.Question_13.executor": "Run",
     "Application.Question_14.executor": "Run",
+    "Application.Question_15.executor": "Run",
+    "Application.Question_16.executor": "Run",
+    "Application.Question_17.executor": "Run",
     "Application.Question_2.executor": "Run",
     "Application.Question_3.executor": "Run",
     "Application.Question_5.executor": "Run",
@@ -237,7 +244,9 @@
     "Application.Question_7.executor": "Run",
     "Application.Question_8.executor": "Run",
     "Application.Question_9.executor": "Run",
+    "Application.Questions_2.executor": "Run",
     "Application.Questions_4.executor": "Run",
+    "Application.Questions_8.executor": "Run",
     "Application.RelationalOperator.executor": "Run",
     "Application.RelationalOperators_06.executor": "Run",
     "Application.ReverseString.executor": "Run",
@@ -291,13 +300,13 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BankDemo">
-    <configuration name="BankDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Synchroniztion.BankDemo" />
+  <component name="RunManager" selected="Application.Question_17">
+    <configuration name="Question_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.Array.Question_10" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Synchroniztion.*" />
+          <option name="PATTERN" value="src.Questions.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -305,12 +314,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Th03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ThreadDemo.Th03" />
+    <configuration name="Question_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.Question_15" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.ThreadDemo.*" />
+          <option name="PATTERN" value="src.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,12 +327,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Th03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ThreadDemo.Th03" />
+    <configuration name="Question_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.Question_16" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.ThreadDemo.*" />
+          <option name="PATTERN" value="src.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,12 +340,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="case1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Synchroniztion.case1" />
+    <configuration name="Question_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.Array.Question_17" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Synchroniztion.*" />
+          <option name="PATTERN" value="src.Questions.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,12 +353,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="case1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Synchroniztion.case1" />
+    <configuration name="Question_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.Array.Question_9" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.Synchroniztion.*" />
+          <option name="PATTERN" value="src.Questions.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,19 +367,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BankDemo" />
-      <item itemvalue="Application.Th03" />
-      <item itemvalue="Application.Th03 (1)" />
-      <item itemvalue="Application.case1" />
-      <item itemvalue="Application.case1 (1)" />
+      <item itemvalue="Application.Question_10" />
+      <item itemvalue="Application.Question_15" />
+      <item itemvalue="Application.Question_16" />
+      <item itemvalue="Application.Question_17" />
+      <item itemvalue="Application.Question_9" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankDemo" />
-        <item itemvalue="Application.case1 (1)" />
-        <item itemvalue="Application.case1" />
-        <item itemvalue="Application.Th03 (1)" />
-        <item itemvalue="Application.Th03" />
+        <item itemvalue="Application.Question_17" />
+        <item itemvalue="Application.Question_16" />
+        <item itemvalue="Application.Question_15" />
+        <item itemvalue="Application.Question_10" />
+        <item itemvalue="Application.Question_9" />
       </list>
     </recent_temporary>
   </component>
