@@ -5,7 +5,7 @@ public class Question_2 {
 
         int [] marks = {82,92,93,90};
         int num= 90;
-         boolean isArray = false;
+        boolean isArray = false;
 
          for (int element: marks)
          {

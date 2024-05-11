@@ -5,21 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04d68f89-82a4-4da7-836d-a03f2284a73b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Question_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Questions_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Question_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Question_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/Largestarr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/charcatercount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/reversearr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Array/smallestarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/worldcount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Questions/Array/Question_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/src/Questions/Array/Question_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Questions/Array/Question_17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java programs learnning/src/Questions/Question_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java programs learnning/src/Questions/Question_15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions/Array/Question_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions/Array/Question_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions/Array/Question_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions/Array/Question_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions/Question_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions/Question_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions/Question_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions/Question_18.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,6 +220,7 @@
     "Application.Lab198.executor": "Run",
     "Application.Lab199.executor": "Run",
     "Application.Lab201.executor": "Run",
+    "Application.Largestarr.executor": "Run",
     "Application.Left_traingle.executor": "Run",
     "Application.LogicalOperators_02.executor": "Run",
     "Application.LogicalOperators_07.executor": "Run",
@@ -237,6 +239,7 @@
     "Application.Question_15.executor": "Run",
     "Application.Question_16.executor": "Run",
     "Application.Question_17.executor": "Run",
+    "Application.Question_18.executor": "Run",
     "Application.Question_2.executor": "Run",
     "Application.Question_3.executor": "Run",
     "Application.Question_5.executor": "Run",
@@ -265,6 +268,7 @@
     "Application.UnaryOperator.executor": "Run",
     "Application.case1 (1).executor": "Run",
     "Application.case1.executor": "Run",
+    "Application.charcatercount.executor": "Run",
     "Application.factorial.executor": "Run",
     "Application.genericClass.executor": "Run",
     "Application.genericMethod.executor": "Run",
@@ -284,10 +288,14 @@
     "Application.pyramid2.executor": "Run",
     "Application.reverseArray.executor": "Run",
     "Application.reverse_string.executor": "Run",
+    "Application.reversearr.executor": "Run",
     "Application.reversestring.executor": "Debug",
     "Application.rightPyramid.executor": "Run",
+    "Application.smallestarray.executor": "Run",
     "Application.src.OOPS_07.Lab093.executor": "Run",
+    "Application.test.executor": "Run",
     "Application.trainglwith2.executor": "Run",
+    "Application.worldcount.executor": "Run",
     "Application.xpattern.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -300,9 +308,9 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Question_17">
-    <configuration name="Question_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Questions.Array.Question_10" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="Largestarr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.Array.Largestarr" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
@@ -314,51 +322,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Questions.Question_15" />
+    <configuration name="charcatercount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.Array.charcatercount" />
+      <module name="Java programs learnning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Questions.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reversearr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.Array.reversearr" />
+      <module name="Java programs learnning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Questions.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="smallestarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.Array.smallestarray" />
+      <module name="Java programs learnning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Questions.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Questions.test" />
       <module name="Java programs learnning" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Questions.Question_16" />
-      <module name="Java programs learnning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Questions.Array.Question_17" />
-      <module name="Java programs learnning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.Questions.Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Questions.Array.Question_9" />
-      <module name="Java programs learnning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.Questions.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,19 +375,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Question_10" />
-      <item itemvalue="Application.Question_15" />
-      <item itemvalue="Application.Question_16" />
-      <item itemvalue="Application.Question_17" />
-      <item itemvalue="Application.Question_9" />
+      <item itemvalue="Application.Largestarr" />
+      <item itemvalue="Application.charcatercount" />
+      <item itemvalue="Application.reversearr" />
+      <item itemvalue="Application.smallestarray" />
+      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_17" />
-        <item itemvalue="Application.Question_16" />
-        <item itemvalue="Application.Question_15" />
-        <item itemvalue="Application.Question_10" />
-        <item itemvalue="Application.Question_9" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.reversearr" />
+        <item itemvalue="Application.Largestarr" />
+        <item itemvalue="Application.smallestarray" />
+        <item itemvalue="Application.charcatercount" />
       </list>
     </recent_temporary>
   </component>
@@ -484,21 +492,6 @@
           <url>file://$PROJECT_DIR$/src/interview/patterns/ClockwiseSpiralPattern.java</url>
           <line>5</line>
           <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InterviewQuestions/OnePrimeNumber.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InterviewQuestions/OnePrimeNumber.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/InterviewQuestions/OnePrimeNumber.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

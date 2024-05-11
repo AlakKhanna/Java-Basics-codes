@@ -2,40 +2,33 @@ package src.Questions;
 import  java.util.Scanner;
 
 public class Question_15 {
+    public static void main(String[] args) {
 
-    public static void main (String[] args)
+    Scanner sc = new Scanner(System.in);
+    System.out.println("Enter your number,, I will tell you it is prime or not -");
+    int num = sc.nextInt();
+    int divide= num/2;
+    int temp =0;
+
+    if (num==0 || num==1)
     {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the value here, I will remove reverse it ");
-        String userInput = sc.nextLine();
-        Question_15 q = new Question_15();
-        q.reverseString(userInput);
-
-
-
-
+        System.out.println("This is not a prime number - " + num);
     }
-
-
-    public void reverseString (String userInput)
-    {
-        char[] charArray = userInput.toCharArray();
-
-        char temp;
-        int left=0;
-        int right= charArray.length-1;
-
-        while (left<right)
+    else {
+        for (int i =2; i<=divide; i++)
         {
-            temp = charArray[left];
-            charArray[left]= charArray[right];
-            charArray[right]= temp;
-            left++;
-            right--;
+            if (num%i==0)
+            {
+                System.out.println("this is not a prime number - " + num);
+                temp =1;
+                break;
+            }
         }
-
-        String reverse = new String(charArray);
-        System.out.println(reverse);
+    }
+    if (temp==0)
+    {
+        System.out.println("this is prime number - " + num);
+    }
 
     }
 }
